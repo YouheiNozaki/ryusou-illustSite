@@ -27,7 +27,7 @@ module.exports = {
       version: 'detect',
     },
   },
-  plugins: ['react', '@typescript-eslint', 'jsx-a11y'],
+  plugins: ["react", '@typescript-eslint', 'jsx-a11y'],
   rules: {
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'react/prop-types': 'off',
